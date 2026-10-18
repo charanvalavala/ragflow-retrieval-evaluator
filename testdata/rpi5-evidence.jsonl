@@ -1,0 +1,6 @@
+{"id":"processor-clock","question":"What processor speed does the Raspberry Pi 5 use?","evidence_groups":[["2.4 GHz","2.4GHz"],["Cortex-A76"]]}
+{"id":"memory-options","question":"Which memory configurations are available?","evidence_groups":[["2GB"],["4GB"],["8GB"],["LPDDR4X"]]}
+{"id":"display-outputs","question":"How many display outputs and what resolution?","evidence_groups":[["micro HDMI"],["4Kp60"]]}
+{"id":"pcie-interface","question":"What PCI Express interface is available?","evidence_groups":[["PCIe 2.0 x1"]]}
+{"id":"usb-ports","question":"What USB 3.0 connections does the board include?","evidence_groups":[["two USB 3.0 ports"]]}
+{"id":"wireless","question":"Which wireless standards are built in?","evidence_groups":[["dual-band 802.11ac Wi-Fi"],["Bluetooth 5.0"]]}
